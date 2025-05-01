@@ -16,7 +16,7 @@ const Hero = () => {
           hotels and resorts. Your unforgettable journey begins here.
         </p>
 
-        <form className="bg-white text-gray-500 rounded-lg px-6 py-4 mt-8 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto">
+        <form className="bg-white text-gray-500 rounded-lg px-6 py-6 mt-8 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto">
           <div>
             <div className="flex items-center gap-2">
               <img src={assets.calenderIcon} alt="" className="h-4" />
