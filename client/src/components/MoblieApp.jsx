@@ -3,7 +3,7 @@ import Title from "./Title";
 
 const MoblieApp = () => {
   return (
-    <div className="flex justify-center flex-col items-center py-20">
+    <div className="flex justify-center flex-col items-center py-20 max-sm:px-5">
       <Title
         title="Seamless Experience Across All Devices"
         subTitle="Download our mobile app for a smooth, on-the-go booking experience anytime, anywhere."

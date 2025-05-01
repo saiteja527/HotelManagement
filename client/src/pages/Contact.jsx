@@ -3,8 +3,8 @@ import PricingCards from "./../components/PricingCards";
 
 const Contact = () => {
   return (
-    <div className="mt-10 max-sm:mx-5">
-      <div className="py-20 flex flex-col items-center justify-center">
+    <div className="mt-10 ">
+      <div className="py-20 flex flex-col items-center justify-center max-sm:px-5">
         <p className="text-lg text-blue-600 font-semibold pb-2">Contact Us</p>
         <h1 className="text-4xl font-extrabold text-slate-700 pb-4">
           Get in Touch With Us

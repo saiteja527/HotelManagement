@@ -84,7 +84,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className="py-10 bg-slate-50">
+      <div className="py-10 bg-slate-50 px-5">
         <Title
           title="Discover Exclusive Destinations"
           subTitle="Explore handpicked luxury retreats, hidden gems, and scenic escapes tailored just for you."
@@ -108,8 +108,9 @@ const About = () => {
           </div>
         </div>
       </div>
-      <div className="py-20">
-        <div className="flex flex-col items-center text-gray-800">
+
+      <div className="py-20 max-sm:mx-2 px-2">
+        <div className="flex flex-col items-center justify-center text-gray-800">
           <p className="text-blue-600 font-medium mb-2">
             5000+ Happy Customers
           </p>
@@ -168,7 +169,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className="flex items-center justify-center bg-slate-50 py-5">
+      <div className="flex items-center justify-center bg-slate-50 py-5 ">
         <div className="w-full flex items-center justify-center space-x-2 max-w-md py-2.5 rounded-lg font-medium text-sm text-white text-center bg-gray-800">
           <p>
             Get 20% OFF on Your First Booking!{" "}
@@ -182,7 +183,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className="pt-5 pb-20 bg-slate-50 flex flex-col items-center justify-center">
+      <div className="pt-5 pb-20 bg-slate-50 flex flex-col items-center justify-center px-5">
         <Title
           title="Subscribe To Our Hotel Offers"
           subTitle="Be the first to know about our latest deals, promotions, and exclusive offers!"
