@@ -10,6 +10,8 @@ const NewsLetter = () => {
         subTitle="Be the first to get the latest news about trends, promotions,
                 and much more!"
       />
+
+      
       <div className="flex flex-col md:flex-row mt-5 mb-10">
         <div className="md:grid md:grid-cols-2 max-w-4xl bg-white mx-4 md:mx-auto rounded-xl">
           <img
@@ -42,6 +44,8 @@ const NewsLetter = () => {
           </div>
         </div>
       </div>
+
+
       <div className="w-full flex items-center justify-between px-4 md:px-14 py-1 font-medium text-sm text-white text-center bg-gray-800">
         <p>Get 20% OFF on Your First Order!</p>
         <div className="flex items-center space-x-6">

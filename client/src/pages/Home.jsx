@@ -16,7 +16,6 @@ const Home = () => {
       <Testimonial />
       <MoblieApp />
       <NewsLetter />
-      <Footer />
     </>
   );
 };

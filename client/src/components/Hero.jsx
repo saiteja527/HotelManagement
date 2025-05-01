@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
       <div className='flex flex-col items-start justify-center px-6 md:px-16 lg:px-24 xl:px-32 text-white bg-[url("/src/assets/heroImage.jpg")] bg-no-repeat bg-cover bg-center h-screen'>
-        <p className="bg-[#49b9ff]/50 px-3.5 py-1 rounded-full mt-20 ">
+        <p className="bg-[#49b9ff]/50 px-3.5 py-1 rounded-full mt-20">
           Redefining Luxury, One Stay at a Time.
         </p>
         <h1 className="font-playfair text-2xl md:text-5xl md-text-[56px] md:leading-[56px] font-bold md:font-extrabold max-w-xl mt-4">
@@ -16,7 +16,7 @@ const Hero = () => {
           hotels and resorts. Your unforgettable journey begins here.
         </p>
 
-        <form className="bg-white text-gray-500 rounded-lg px-6 py-6 mt-8 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto">
+        <form className="bg-white flex-wrap text-gray-500 rounded-lg px-6 py-6 mt-8 flex flex-col md:flex-row max-md:items-start max-sm:gap-1 gap-4 max-md:mx-auto">
           <div>
             <div className="flex items-center gap-2">
               <img src={assets.calenderIcon} alt="" className="h-4" />
