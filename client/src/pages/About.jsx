@@ -6,7 +6,6 @@ import thumbnail1 from "../assets/thumbnail1.jpg";
 import thumbnail2 from "../assets/thumbnail2.jpg";
 import thumbnail3 from "../assets/thumbnail3.jpg";
 import thumbnail4 from "../assets/thumbnail4.jpg";
-import NewsLetter from "./../components/NewsLetter";
 
 const About = () => {
   const thumbnails = [thumbnail1, thumbnail2, thumbnail3, thumbnail4];
