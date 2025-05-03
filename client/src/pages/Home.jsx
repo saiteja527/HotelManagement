@@ -11,8 +11,8 @@ const Home = () => {
   return (
     <>
       <Hero />
-      <FeaturedDestination />
       <ExclusiveOffers />
+      <FeaturedDestination />
       <Testimonial />
       <MoblieApp />
       <NewsLetter />

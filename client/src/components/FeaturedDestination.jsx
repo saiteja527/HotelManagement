@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 const FeaturedDestination = () => {
   const navigate = useNavigate();
   return (
-    <div className="flex flex-col items-center px-6 md:px-16 lg:px-24 bg-slate-50 py-20">
+    <div className="flex flex-col items-center px-6 md:px-16 lg:px-24  py-20">
       <Title
         title="Feature Destination"
         subTitle="Discover our handpicked selection of exceptional properties around the world, offering unparalleled luxury and unforgettable experiences."
